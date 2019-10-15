@@ -4,197 +4,198 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ida Marie S. Lassen
+    tagline: Techno Philosopher and Critical Developer
+    avatar: mig.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: im.fri@protonmail.com
+    phone: +45 42 48 11 61
+    #website: blog.webjeda.com #do not add http://
+    linkedin: Ida Marie S. Lassen
+    github:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Danish
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Intermediate
 
-    interests:
-      - item: Climbing
-        link:
+  #  interests:
+  #    - item: Yoga and meditation
+  #      link:
+#
+#      - item: Philosophy of Technology
+#        link:
+#
+#      - item: Sex, drugs and rock'n roll
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      With the combination of my double bachelor dregrees in Computer Science and Philosophy I have acquired
+      both a deep and a broad understading of technology and the use of technology.
 
-      Second paragraph if required.
+      I like to think and refelct critically about the way we implement and use technology, and how it affects the humans involved - both directly or indirectly.
+      At the same time I understand the issues and challenges of implementations and knows the technical language of the engineered world we are a part of.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  - degree: Bachelor student, Philosophy <br> Supplementary subject in Computer Science
+    university: Aarhus University
+    time: 2017 - 2020
+    details: |
+      January 2020 I graduate as B.A. in Philosophy with supplementary subject in Computer Science.
 
-          - Bullet point
-          - Bullet point
+      Elective courses in:
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        - Philosophy of Science
+        - Socio-Cultural Robotics: Introduction to Robophilosophy
 
-          - Bullet point
-          - Bullet point
+  - degree: Bachelor student, Computer Science <br> Supplementary classes in Mathematics
+    university: Aarhus University
+    time: 2014 - 2017
+    details: |
+      From 2014 I was enrolled as a bachelor student at computer sceince at Aarhus University.
+      In the pring of 2017 I have passed all courses so far in the study program.
+      I the storing 2019 I have followed the rest of the program and have now passed 180/180 ECTS points in the bachelor program
+
+
+
+  - degree: Summer School, Mathematics
+    university: Columbia Univeristy
+    time: 2016
+    details: |
+      As a part of my bachelor program in computer science I took supplementary classes in mathematics.
+      Summer 2016 I took two courses at  Columbia University in the City of New York.
+
+
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: May 2019 - Present
+      company: Center for Humanities Computing Aarhus (CHCAA)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Writer
+      time: 2018 - Present
+      company: DataEthics.eu, Copenhagen, Denmark
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I am writing analysis, blog posts and news for  DataEtics - a politically independent
+        ThinkDoTank based in Denmark with a European (and global) outreach.
+        We work to promote data ethical products and services.
 
-          - Bullet point
-          - Bullet point
+        See my content at: [https://dataethics.eu/author/ida-marie-schytt-lassen/](https://dataethics.eu/author/ida-marie-schytt-lassen/)
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Analyst
+      time: 2017 - 2018
+      company: Netcompany A/S, Aarhus, Denmark
+      details:  Testwriting and integration test on the PSRM System
+
+
+    - role: Teaching Assistant
+      time: Fall 2016 and Spring 2019
+      company: Aarhus University, Aarhus, Denmark
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - **2016**: Teaching Assistant in the first year course Programming 2, Computer Science
+        - **2019**: Teaching Assistant in the course Philosophy of Computer Science and Information Technology.
 
-          - Bullet point
-          - Bullet point
+    - role: Student Programmer
+      time: 2015 - 2017
+      company: Systematic A/S, Aarhus, Denmark
+      details: |
+        Student programmer in Library and Learning, Sytematic A/S
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Tænk Teknologi
+        link: taenkteknologi.dk"
+        tagline: "Tænk Teknologi is an interdisciplinary association, with focus technology's role in society.
+         We want to create a network of people with interesets in technology, who work together and learn from each other across disciplines.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        Contact: idamarie@taenkteknologi.dk"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: IT Camp for Young Women
+        link:
+        tagline: "IT Camp for Young Women is a camp with technology, design and inspiration for femiale highschool students.
+        The aim with the camp is to remove prejudices about the IT industry and to show young women that  IT certainly is for women as well!"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
+    summary: |
+       Besides critically and etical analysis of solutions and technology use, I have
+        during my work life acquired skills in different deleveopment tools and programming languages:
+
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Value-Driven Design
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Scrum
+        level: 83%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL
+        level: 78%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Integration Testing
+        level: 65%
+
+      - name: Design patterns
+        level: 65%
+
+      - name: Swift
+        level: 50%
+
+
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
