@@ -50,8 +50,9 @@ career-profile:
       With the combination of my double bachelor dregrees in Computer Science and Philosophy I have acquired
       both a deep and a broad understading of technology and the use of technology.
 
-      I like to think and refelct critically about the way we implement and use technology, and how it affects the humans involved - both directly or indirectly.
-      At the same time I understand the issues and challenges of implementations and knows the technical language of the engineered world we are a part of.
+      I like to think and refelct critically about the way we implement and use technology,
+      and how it affects the humans involved - both directly and indirectly.
+      At the same time I understand the issues and challenges of implementations and know the technical language and have practical experiences.
 
 education:
   - degree: Bachelor student, Philosophy <br> Supplementary subject in Computer Science
@@ -70,8 +71,9 @@ education:
     time: 2014 - 2017
     details: |
       From 2014 I was enrolled as a bachelor student at computer sceince at Aarhus University.
-      In the pring of 2017 I have passed all courses so far in the study program.
-      I the storing 2019 I have followed the rest of the program and have now passed 180/180 ECTS points in the bachelor program
+      In the spring of 2017 I have passed all courses so far in the study program.
+      I the spring 2019 I have followed the rest of the program and have now passed 180/180 ECTS points in the bachelor program.
+      I have a pending application of re-enrollment in the program, and  I hope that pr. January 2020 I can call myself BSc in Computer Science.
 
 
 
@@ -89,7 +91,12 @@ experiences:
       time: May 2019 - Present
       company: Center for Humanities Computing Aarhus (CHCAA)
       details: |
-
+        The Center for Humanities Computing Aarhus (CHCAA) is the spearhead of computationally empowered humanities research at Aarhus University.
+        We adopt, research and develop tomorrow's data-driven methodologies, tools, and synergies.
+        Our aim is to provide humanities research with relevant, efficient, and usable computational tools and resources.
+        I am cuurently working on:
+          - Heliping Danish literature scholars who wants to incorporate digital methods into their work.
+          - Computer vision on abstract art.
 
 
     - role: Writer
@@ -165,7 +172,7 @@ skills:
     title: Skills &amp; Proficiency
     summary: |
        Besides critically and etical analysis of solutions and technology use, I have
-        during my work life acquired skills in different deleveopment tools and programming languages:
+        during my studies and work life acquired skills in different deleveopment tools and programming languages:
 
 
     toolset:
@@ -180,6 +187,9 @@ skills:
 
       - name: Scrum
         level: 83%
+
+      - name: Github Pages
+        level: 80%
 
       - name: SQL
         level: 78%
