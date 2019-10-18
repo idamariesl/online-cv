@@ -47,12 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      With the combination of my double bachelor dregrees in Computer Science and Philosophy I have acquired
-      both a deep and a broad understading of technology and the use of technology.
+    With the combination of my double bachelor degrees in Computer Science and Philosophy I have acquired
+      both a deep and a broad understanding of technology and the use of technology.
 
-      I like to think and refelct critically about the way we implement and use technology,
+      I like to think and reflect critically about the way we implement and use technology,
       and how it affects the humans involved - both directly and indirectly.
       At the same time I understand the issues and challenges of implementations and know the technical language and have practical experiences.
+
 
 education:
   - degree: Bachelor student, Philosophy <br> Supplementary subject in Computer Science
@@ -70,7 +71,7 @@ education:
     university: Aarhus University
     time: 2014 - 2017
     details: |
-      From 2014 I was enrolled as a bachelor student at computer sceince at Aarhus University.
+      From 2014 I was enrolled as a bachelor student at computer science at Aarhus University.
       In the spring of 2017 I have passed all courses so far in the study program.
       I the spring 2019 I have followed the rest of the program and have now passed 180/180 ECTS points in the bachelor program.
       I have a pending application of re-enrollment in the program, and  I hope that pr. January 2020 I can call myself BSc in Computer Science.
@@ -78,7 +79,7 @@ education:
 
 
   - degree: Summer School, Mathematics
-    university: Columbia Univeristy
+    university: Columbia University
     time: 2016
     details: |
       As a part of my bachelor program in computer science I took supplementary classes in mathematics.
@@ -94,8 +95,8 @@ experiences:
         The Center for Humanities Computing Aarhus (CHCAA) is the spearhead of computationally empowered humanities research at Aarhus University.
         We adopt, research and develop tomorrow's data-driven methodologies, tools, and synergies.
         Our aim is to provide humanities research with relevant, efficient, and usable computational tools and resources.
-        I am cuurently working on:
-          - Heliping Danish literature scholars who wants to incorporate digital methods into their work.
+        I am currently working on:
+          - Helping Danish literature scholars who wants to incorporate digital methods into their work.
           - Computer vision on abstract art.
 
 
@@ -112,7 +113,7 @@ experiences:
     - role: Analyst
       time: 2017 - 2018
       company: Netcompany A/S, Aarhus, Denmark
-      details:  Testwriting and integration test on the PSRM System
+      details:  Test writing and integration test on the PSRM System
 
 
     - role: Teaching Assistant
@@ -126,24 +127,23 @@ experiences:
       time: 2015 - 2017
       company: Systematic A/S, Aarhus, Denmark
       details: |
-        Student programmer in Library and Learning, Sytematic A/S
+        Student programmer in Library and Learning, Systematic A/S
 
 projects:
     title: Projects
     intro: >
 
-
     assignments:
       - title: Tænk Teknologi
         link: taenkteknologi.dk"
         tagline: "Tænk Teknologi is an interdisciplinary association, with focus technology's role in society.
-         We want to create a network of people with interesets in technology, who work together and learn from each other across disciplines.
+         We want to create a network of people with interests in technology, who work together and learn from each other across disciplines.
 
         Contact: idamarie@taenkteknologi.dk"
 
       - title: IT Camp for Young Women
         link:
-        tagline: "IT Camp for Young Women is a camp with technology, design and inspiration for femiale highschool students.
+        tagline: "IT Camp for Young Women is a camp with technology, design and inspiration for female high school students.
         The aim with the camp is to remove prejudices about the IT industry and to show young women that  IT certainly is for women as well!"
 
 
@@ -171,8 +171,8 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     summary: |
-       Besides critically and etical analysis of solutions and technology use, I have
-        during my studies and work life acquired skills in different deleveopment tools and programming languages:
+        Besides critically and ethical analysis of solutions and technology use, I have
+        during my studies and work life acquired skills in different development tools and programming languages:
 
 
     toolset:
