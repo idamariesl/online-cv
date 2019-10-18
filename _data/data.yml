@@ -176,7 +176,7 @@ skills:
 
 
     toolset:
-      - name: Python.
+      - name: Python
         level: 90%
 
       - name: Java
